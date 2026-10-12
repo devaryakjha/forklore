@@ -1,0 +1,118 @@
+{
+  "maintainerName": "Yaksh Bariya",
+  "maintainerUsername": "thunder-coding",
+  "feedUrl": "https://thunders.website/index.xml",
+  "lastFetched": "2026-10-12T00:42:19.030Z",
+  "posts": [
+    {
+      "slug": "2026-01-10-docker-on-tmpfs",
+      "guid": "https://thunders.website/posts/2026-01-10-docker-on-tmpfs/",
+      "title": "Docker on tmpfs",
+      "link": "https://thunders.website/posts/2026-01-10-docker-on-tmpfs/",
+      "pubDate": "Sat, 10 Jan 2026 02:15:00 +0530",
+      "content": "Running entire docker container",
+      "contentSnippet": "Running entire docker container",
+      "tags": []
+    },
+    {
+      "slug": "2025-12-13-ai-slop",
+      "guid": "https://thunders.website/posts/2025-12-13-ai-slop/",
+      "title": "AI Slop",
+      "link": "https://thunders.website/posts/2025-12-13-ai-slop/",
+      "pubDate": "Sun, 14 Dec 2025 00:03:00 +0530",
+      "content": "My thoughts on AI slop, and how it&#39;s negatively affecting the world",
+      "contentSnippet": "My thoughts on AI slop, and how it's negatively affecting the world",
+      "tags": []
+    },
+    {
+      "slug": "2025-06-13-update-to-my-gpg-keys",
+      "guid": "https://thunders.website/posts/2025-06-13-update-to-my-gpg-keys/",
+      "title": "Update to my GPG keys",
+      "link": "https://thunders.website/posts/2025-06-13-update-to-my-gpg-keys/",
+      "pubDate": "Fri, 13 Jun 2025 00:00:00 +0530",
+      "content": "I have updated my GPG keys, please import the new keys and update your keyrings.",
+      "contentSnippet": "I have updated my GPG keys, please import the new keys and update your keyrings.",
+      "tags": []
+    },
+    {
+      "slug": "interesting-case-of-procfs-and-dev-on-posix-systems",
+      "guid": "https://thunders.website/posts/interesting-case-of-procfs-and-dev-on-posix-systems/",
+      "title": "Interesting case of /proc and /dev on POSIX systems",
+      "link": "https://thunders.website/posts/interesting-case-of-procfs-and-dev-on-posix-systems/",
+      "pubDate": "Sun, 06 Apr 2025 19:45:00 +0530",
+      "content": "Read how I learnt that reading the POSIX specifications is a good thing than relying solely on online blogs and articles about POSIX stuff",
+      "contentSnippet": "Read how I learnt that reading the POSIX specifications is a good thing than relying solely on online blogs and articles about POSIX stuff",
+      "tags": []
+    },
+    {
+      "slug": "hackslash-sigstp-solution-to-the-trial-of-cheaters-path",
+      "guid": "https://thunders.website/posts/hackslash-sigstp-solution-to-the-trial-of-cheaters-path/",
+      "title": "Solution to HackSlash SigSTP: Trial of Cheaters Path problem",
+      "link": "https://thunders.website/posts/hackslash-sigstp-solution-to-the-trial-of-cheaters-path/",
+      "pubDate": "Tue, 18 Mar 2025 23:35:00 +0530",
+      "content": "How I managed to solve all of the HackSlash&#39; SigSTP Induction problems",
+      "contentSnippet": "How I managed to solve all of the HackSlash' SigSTP Induction problems",
+      "tags": []
+    },
+    {
+      "slug": "how-i-decide-if-your-website-is-worth-a-revisit",
+      "guid": "https://thunders.website/posts/how-i-decide-if-your-website-is-worth-a-revisit/",
+      "title": "How I decide if your website is worth a revisit",
+      "link": "https://thunders.website/posts/how-i-decide-if-your-website-is-worth-a-revisit/",
+      "pubDate": "Mon, 04 Mar 2024 20:15:00 +0530",
+      "content": "In this new world full of SEO and AI crap, it is becoming difficult to find good content, even for hardcore techies like us. Here&#39;s how I do and and I hope it helps you too.",
+      "contentSnippet": "In this new world full of SEO and AI crap, it is becoming difficult to find good content, even for hardcore techies like us. Here's how I do and and I hope it helps you too.",
+      "tags": []
+    },
+    {
+      "slug": "streaming-freecodecamps-coderadio-using-mpv",
+      "guid": "https://thunders.website/posts/streaming-freecodecamps-coderadio-using-mpv/",
+      "title": "Streaming FreeCodeCamp's Coderadio using mpv",
+      "link": "https://thunders.website/posts/streaming-freecodecamps-coderadio-using-mpv/",
+      "pubDate": "Mon, 19 Sep 2022 12:30:00 +0530",
+      "content": "Read how I managed to stream FreeCodeCamp&#39;s Coderadio using mpv on the terminal",
+      "contentSnippet": "Read how I managed to stream FreeCodeCamp's Coderadio using mpv on the terminal",
+      "tags": []
+    },
+    {
+      "slug": "announcing-open-sourcing-of-my-blog",
+      "guid": "https://thunders.website/posts/announcing-open-sourcing-of-my-blog/",
+      "title": "Announcing Open Sourcing of my blog site",
+      "link": "https://thunders.website/posts/announcing-open-sourcing-of-my-blog/",
+      "pubDate": "Thu, 19 May 2022 10:00:00 +0530",
+      "content": "Read how I just migrated my site from Next.js to Hugo + PaperMod",
+      "contentSnippet": "Read how I just migrated my site from Next.js to Hugo + PaperMod",
+      "tags": []
+    },
+    {
+      "slug": "now-you-can-sponsor-me-for-my-open-source-work-using-bitcoin",
+      "guid": "https://thunders.website/posts/now-you-can-sponsor-me-for-my-open-source-work-using-bitcoin/",
+      "title": "Now you can sponsor me for my open source work using Bitcoin",
+      "link": "https://thunders.website/posts/now-you-can-sponsor-me-for-my-open-source-work-using-bitcoin/",
+      "pubDate": "Fri, 08 Apr 2022 22:00:00 +0530",
+      "content": "Sponsor an open source contributor and maintainer to encourage them!",
+      "contentSnippet": "Sponsor an open source contributor and maintainer to encourage them!",
+      "tags": []
+    },
+    {
+      "slug": "hello-world",
+      "guid": "https://thunders.website/posts/hello-world/",
+      "title": "Hello World: Welcome to my blog",
+      "link": "https://thunders.website/posts/hello-world/",
+      "pubDate": "Mon, 04 Oct 2021 00:00:00 +0530",
+      "content": "Read how I built my blog site",
+      "contentSnippet": "Read how I built my blog site",
+      "tags": []
+    },
+    {
+      "slug": "sponsor",
+      "guid": "https://thunders.website/sponsor/",
+      "title": "Sponsor Me",
+      "link": "https://thunders.website/sponsor/",
+      "pubDate": "Mon, 01 Jan 0001 00:00:00 +0000",
+      "content": "<h2 id=\"open-source-work-by-me\">Open Source work by me</h2>\n<p>Mostly I contribute to the <a href=\"https://termux.org\">Termux project</a> both as a contributor and a maintainer reviewing PRs. For Termux, I maintain <a href=\"https://nodejs.org\">Node.js</a> and also help in updating critical libraries to which a lot of packages make use of.</p>\n<h2 id=\"ways-to-sponsor\">Ways to sponsor</h2>\n<h3 id=\"github-sponsors\">GitHub Sponsors</h3>\n<p>I accept sponsors using GitHub Sponsors. You can pay by visiting my <a href=\"https://github.com/sponsors/thunder-coding\">sponsors profile on GitHub</a></p>\n<h3 id=\"cryptocurrencies\">Cryptocurrencies</h3>\n\n\n  <blockquote class=\"alert alert-type-none\">\n    <p>Note that these addresses are static. In case you want private addresses for payment mail me at <a href=\"mailto:yakshbari4@gmail.com\">yakshbari4@gmail.com</a></p>",
+      "contentSnippet": "Open Source work by me\nMostly I contribute to the Termux project both as a contributor and a maintainer reviewing PRs. For Termux, I maintain Node.js and also help in updating critical libraries to which a lot of packages make use of.\nWays to sponsor\nGitHub Sponsors\nI accept sponsors using GitHub Sponsors. You can pay by visiting my sponsors profile on GitHub\nCryptocurrencies\nNote that these addresses are static. In case you want private addresses for payment mail me at yakshbari4@gmail.com",
+      "tags": []
+    }
+  ]
+}
